@@ -4,7 +4,8 @@
 
 ### My skill sets:
 * Product Leadership 
-* Product Design 
+* Agile Product Management
+* User Experience Design 
 * Data Science
 * Cloud computing
 
