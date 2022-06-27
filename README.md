@@ -6,8 +6,8 @@
 * Product Leadership 
 * Agile Product Management
 * User Experience Design 
+* Figma
 * HTML 5, CSS, JS, Bootstrap
-* Cloud computing
 
 ### My tool sets:
 <h3 align="left">Languages and Tools:</h3>
