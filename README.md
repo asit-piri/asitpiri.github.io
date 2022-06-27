@@ -6,8 +6,9 @@
 * Product Leadership 
 * Agile Product Management
 * User Experience Design 
-* Figma
-* HTML 5, CSS, JS, Bootstrap
+* Figma for User Experience Designing
+* Github, HTML 5, CSS, JS, Bootstrap
+* Usability Testing
 
 ### My tool sets:
 <h3 align="left">Languages and Tools:</h3>
