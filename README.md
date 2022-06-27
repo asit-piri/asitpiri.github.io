@@ -15,7 +15,7 @@
 ### My Hobbies and interests -
 * Writing
 * Interviewing
-* Skettching
+* Sketching
 * Photography
 * Designing
 * Mentoring
