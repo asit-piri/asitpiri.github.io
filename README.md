@@ -6,7 +6,7 @@
 * Product Leadership 
 * Agile Product Management
 * User Experience Design 
-* Data Science
+* HTML 5, CSS, JS, Bootstrap
 * Cloud computing
 
 ### My tool sets:
