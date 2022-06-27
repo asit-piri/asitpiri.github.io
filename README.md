@@ -2,7 +2,7 @@
 <h3 align="center" style="color:MediumSeaGreen"> Greetings. It’s great connecting with you.</h3>
 <h2 align="center">I'm Asit Piri,<br> AI Product Manager who is passionate about telling stories with data and designing things.</h2>
 
-### My skill sets:
+### My skill sets Used:
 * Product Leadership 
 * Agile Product Management
 * User Experience Design 
