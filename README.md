@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/asit-piri/asitpiri.github.io/blob/main/img/Logo.png" width="60"/></h1>
 <h3 align="center" style="color:MediumSeaGreen"> Greetings. It’s great connecting with you.</h3>
-<h2 align="center">I'm Asit Piri, AI Product Maker who loves telling stories with data and designing things.</h2>
+<h2 align="center">I'm Asit Piri,<br> AI Product Manager who loves telling stories with data and designing things.</h2>
 
 ### Here are my skill sets:
 * Product Leadership 
